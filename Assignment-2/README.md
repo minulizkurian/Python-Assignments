@@ -1,9 +1,9 @@
 
-#      <ins>**ASSIGNMENT 2:**</ins><br/>
+#      **ASSIGNMENT 2:**<br/>
 
-#   <ins>**Module 3: Control Structures in Python**</ins><br/>
+#  **Module 3: Control Structures in Python**<br/>
  
-## <ins>Task 1: Check if a Number is Even or Odd</ins>
+## Task 1: Check if a Number is Even or Odd
 
 ### Problem Statement:  Write a Python program that:
   * Takes an integer input from the user.
@@ -12,7 +12,7 @@
 
 
 
-## <ins>**Task 2: Sum of Integers from 1 to 50 Using a Loop**</ins>
+## **Task 2: Sum of Integers from 1 to 50 Using a Loop**
  
 ### Problem Statement: Write a Python program that:
 *  Uses a for loop to iterate over numbers from 1 to 50.
